@@ -32,3 +32,33 @@ ol {
     color: #ffc1cc;
 }
 
+#qr {
+    color: rgb(255, 0, 0);
+}
+
+#man {
+    color: rgb(255, 136, 0);
+}
+
+#hacker {
+    color: rgb(255, 238, 0);
+}
+
+#pug {
+    color: black;
+}
+
+#oc {
+    color: green;
+}
+
+#chibi {
+    color: lightblue;
+}
+
+#jeanne {
+    color: pink;
+}
+h2 {
+    color:rgb(255, 0, 0);
+}
