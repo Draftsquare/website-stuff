@@ -6,7 +6,7 @@ h1 {
 }
 
 p {
-    width: 60%;
+    width: 50%;
     color: #ffc1cc;
     text-align: center;
     line-height: 2;
@@ -18,6 +18,8 @@ p {
 
 img {
     width: 50%;
+    position: relative;
+    left: 275px;
 }
 
 ul {
@@ -57,8 +59,37 @@ ol {
 }
 
 #jeanne {
-    color: pink;
+    color: rgb(195, 99, 115)
 }
 h2 {
-    color:rgb(255, 0, 0);
+    color:rgb(123, 119, 255);
+}
+
+h2 {
+    text-align: center;
+}
+
+#sub {
+    color: green;
+    text-align: right;
+}
+
+#soup {
+    color: rgb(123, 119, 255);
+}
+
+#Who_dis {
+    color:rgb(123, 119, 255)
+}
+
+#Contact {
+    color:rgb(123, 119, 255)
+}
+
+#art_plug {
+    color: rgb(123, 119, 255);
+}
+
+#funny_website {
+    color:rgb(123, 119, 255)
 }
